@@ -1,8 +1,10 @@
-package model.order;
+package com.example.swiftmall.model.order;
 
-public class OrderItem {
+public class CartItem {
 
-    private String orderId;
+    private String cartId;
+
+    private String userId;
 
     private String productId;
 
@@ -11,7 +13,4 @@ public class OrderItem {
     private double sellingPrice;
 
     private int itemAmount;
-
-
-
 }

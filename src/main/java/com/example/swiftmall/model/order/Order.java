@@ -1,4 +1,4 @@
-package model.order;
+package com.example.swiftmall.model.order;
 
 public class Order {
 

@@ -1,4 +1,4 @@
-package model.product;
+package com.example.swiftmall.model.product;
 
 public class Product {
 

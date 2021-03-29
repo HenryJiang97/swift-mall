@@ -1,4 +1,4 @@
-package model.user;
+package com.example.swiftmall.model.user;
 
 public abstract class User {
 
